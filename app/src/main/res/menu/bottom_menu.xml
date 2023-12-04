@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/basline_home_ic"
+        android:title="Home"
+        />
+    <item
+        android:id="@+id/favourite"
+        android:icon="@drawable/baseline_favorite_ic"
+        android:title="Favourite"
+        />
+    <item
+        android:id="@+id/notification"
+        android:icon="@drawable/baseline_notifications_ic"
+        android:title="Alert"
+        />
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/baseline_settings_ic"
+        android:title="Setting"
+        />
+
+</menu>
